@@ -33,7 +33,7 @@ Work Experience
   <!-- * Focused on user relationships in two different social networks to capture common users across different social networks -->
 
 * Dresio Limited, Hong Kong 
-  * AI Researcher & Flutter developer (Website: <a href="https://www.dresio.io/"></a>)
+  * AI Researcher & Flutter developer (Website: <a href="https://www.dresio.io/">Dresio.io</a>)
   * Mar. 2023 - Sep. 2023  
   * Developed real-time motion tracker, movement classifier for single lens camera which enables real-time biomechanics measurements & analytics
   * Developed mobile application using Flutter to implement real-time motion tracker and classifier
