@@ -9,9 +9,9 @@ redirect_from:
 ---
 About Me
 ======
-I am **Jaehwan Lim**. I received my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim. <br> 
-My primary interest lies in big data mining based on network alignment and network based recommeder system. <br>
-My research interests are **Network Mining, Network Alignmnet and Recommender System based on User Detection**.
+I am **Jaehwan Lim**. I received my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim<br> 
+My primary interest lies in Big Data Mining, Social Network Alignment and Network based Recommedation System<br>
+My research interests are **Network Mining, Social Network Analysis**
 
 Education
 ====
