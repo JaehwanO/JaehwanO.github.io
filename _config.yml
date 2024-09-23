@@ -8,27 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mincheol Chang"
+title                    : "Jaehwan Lim"
 title_separator          : "-"
-name                     : &name "Mincheol Chang"
+name                     : &name "Jaehwan Lim"
 description              : &description "personal description"
-url                      : https://mincheoree.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JaehwanO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mincheoree/mincheoree.github.io"
+repository               : "JaehwanO/JaehwanO.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Mincheol Chang"
+  avatar           : "profile.jpg"
+  name             : "Jaehwan Lim"
   pronouns         : # example: "she/her"  
   bio              : "MS in Computer Science"
   location         : "Seoul, Korea"
   employer         : 
   uri              : # URL
-  email            : "m1ncheoree@korea.ac.kr" 
+  email            : "tkswjr235@gmail.com" 
   
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "mincheoree"
+  github           : "JaehwanO"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "mincheol-chang-2a81961b4"
+  linkedin         : "jaehwan-lim-3150031b9"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
