@@ -1,5 +1,4 @@
-<!-- New! 단축키 … 첫 글자를 탐색할 수 있도록 Drive 단축키가 업데이트되었습니다. -->
-<!-- --- -->
+---
 permalink: /
 title: ""
 except: ""
@@ -7,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-<!-- --- -->
+---
 About Me
 ======
 I am **Jaehwan Lim**. I received my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim. <br> 
