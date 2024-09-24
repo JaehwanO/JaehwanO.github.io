@@ -25,7 +25,7 @@ author:
   name             : "Jaehwan Lim"
   pronouns         : # example: "she/her"  
   bio              : "MS in Computer Science" 
-  bio              : "BSc in Physics" 
+  # bio              : "BSc in Physics" 
   location         : "Seoul, Korea"
   employer         : 
   uri              : # URL
