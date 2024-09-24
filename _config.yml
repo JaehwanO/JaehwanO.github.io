@@ -24,7 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Jaehwan Lim"
   pronouns         : # example: "she/her"  
-  bio              : "MS in Computer Science"
+  bio              : "MS in Computer Science" 
+  bio              : "BSc in Physics" 
   location         : "Seoul, Korea"
   employer         : 
   uri              : # URL
@@ -73,7 +74,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  cv               : files/Mincheol.pdf
+  cv               : files/Jaehwan.pdf
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

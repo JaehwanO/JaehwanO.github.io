@@ -9,26 +9,26 @@ redirect_from:
 ---
 About Me
 ======
-I am **Jaehwan Lim**. I received my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim<br> 
-My primary interest lies in Big Data Mining, Social Network Alignment and Network based Recommedation System<br>
-My research interests are **Network Mining, Social Network Analysis**
+I am **Jaehwan Lim**. I pursuing my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim<br> 
+My primary interest lies in Big Data Mining, Social Network Analysis, Social Network Alignment and Recommandation System<br>
+My research interests are **Big Data Mining and Social Network Analysis**
 
 Education
 ====
 * Hanyang University, Seoul, Korea 
   * MS in Computer Science
-  * Mar. 2023 - Feb. 2025
+  * Mar. 2023 - current
 
 * Hong Kong University of Science and Technology
   * BS in Physics
-  * Sep. 2016 - Jun. 2022
+  * Sep. 2016 - May. 2022
 
 Work Experience
 ======
 
 * Big Data Science Lab, Seoul, Korea 
   * Full-time Graduate (Advisor: <a href="https://scholar.google.co.kr/citations?user=ed2vz_oAAAAJ&hl=en">Prof. Sangwook Kim</a>)
-  * Mar. 2023 - Feb. 2025 (Expected)
+  * Mar. 2023 - Current
   * Researched on Social Network Analysis especially on Network Alignment
   <!-- * Focused on user relationships in two different social networks to capture common users across different social networks -->
 
@@ -58,21 +58,6 @@ Publications
   <img src= "../images/seg.gif" width = '200' height = '200' />
   <img src= "../images/map.gif" width = "200" height = '200' />
 </p> -->
-
-
-Projects
-======
-* Domain Generalizable Anomaly Detection 모델 개발
-  * SK-Telecom 산학 프로젝트
-  * Sep. 2022 - Feb. 2023 
-
-* Domain Generalizable LiDAR 객체인식 Finetuning Method 개발
-  * 현대자동차 산학 프로젝트
-  * Sep. 2023 - Jun. 2024
-
-* Mask 불량 검출 이상점 검출 기술 개발
-  * 삼성전자 반도체 연구소 산학 프로젝트
-  * Feb. 2024 - Jul. 2024
 
 Skills
 ======
