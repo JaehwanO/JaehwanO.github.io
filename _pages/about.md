@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ======
-I am **Jaehwan Lim**. I pursuing my master degree at Department of Computer Science at **Hanyang University** under supervision of Professor Sangwook Kim<br> 
+I am **Jaehwan Lim**. I am pursuing a Master's degree in Computer Science at **Hanyang University** under the supervision of Professor Sangwook Kim<br> 
 My primary interest lies in Big Data Mining, Social Network Analysis, Social Network Alignment and Recommandation System<br>
 My research interests are **Big Data Mining and Social Network Analysis**
 
